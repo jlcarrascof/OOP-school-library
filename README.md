@@ -21,9 +21,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Create your own Enumerable <a name="about-project"></a>
+# 📖 OOP school library <a name="about-project"></a>
 
-**Create your own Enumerable** ...
+**OOP school library** ...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,19 +40,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Check offical documentation about the following 3 methods in Enumerable**
+In this project you will learn how to:
 
-- **Create a class MyList that has an instance variable @list**
+- **Implement classes and objects in Ruby.**
 
-- **In MyList implement a method #each that yields successive members of @list and uses the MyEnumerable module.**
+- **Implement encapsulation and inheritance with Ruby.**
 
-- **Create a module MyEnumerable that implements the following methods (they should have the same funcionality as methods in Enumerable):
+- **Run a program using the command line.**
 
-    #all?
-    #any?
-    #filter **
-
-- **Each class and module should has a separate .rb file.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,13 +59,15 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+Ruby 3.0.1 or above
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/jlcarrascof/Create-your-own-enumerable.git
-cd Create-your-own-enumerable
+git clone https://github.com/jlcarrascof/OOP-school-library.git
+cd OOP-school-library
 code . (To open VS Code Editor)
 ```
 
@@ -78,21 +75,17 @@ Then, you will change everything you want!
 
 ### Install
 
-Install this project with:
+You don't need to install this project.
 
 ### Usage
 
 To run the project, execute the following steps:
 
+run **ruby school_library.rb**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-👤 **EL MEHDI AHMIDOU**
-
-- GitHub: [@ahmidou09](https://github.com/ahmidou09)
-- Twitter: [@el_ahmidou](https://twitter.com/el_ahmidou)
-- LinkedIn: [el mehdi ahmidou](https://www.linkedin.com/in/el-mehdi-ahmidou-312590125/)
 
 👤 **Javier Jesús Martinez Fariñas**
 
@@ -103,7 +96,12 @@ To run the project, execute the following steps:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [N/A]
+- use the "Decorator" design pattern.
+- set up associations.
+- add basic UI.
+- refactor my code.
+- preserve data.
+- unit tests.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
