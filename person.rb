@@ -11,15 +11,20 @@ class Person
     @parent_permission = parent_permission
   end
 
-  def of_age?
-    @age.to_i >= 18
-  end
-
   def generate_id
     "P#{rand(1000..9999)}"
   end
 
-  def can_use_services?
-    true
+  private
+
+  def of_age?
+    @age >= 18
   end
+
+  public
+
+  def can_use_services?
+    of_age || @parent_permission
+  end
+
 end
