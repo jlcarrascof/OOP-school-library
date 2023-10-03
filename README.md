@@ -1,4 +1,4 @@
-![My Logo](https://ibb.co/p0qcpr2)
+![My Logo](./Logo-final.jpeg)
 
 <a name="readme-top"></a>
 
