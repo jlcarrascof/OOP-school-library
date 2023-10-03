@@ -1,4 +1,4 @@
-# ![My Logo](https://ibb.co/p0qcpr2)
+![My Logo](https://ibb.co/p0qcpr2)
 
 <a name="readme-top"></a>
 
