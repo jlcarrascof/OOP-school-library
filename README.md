@@ -98,7 +98,6 @@ run **ruby school_library.rb**
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- set up associations.
 - add basic UI.
 - refactor my code.
 - preserve data.
